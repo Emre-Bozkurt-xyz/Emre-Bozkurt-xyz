@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emre</h1>
 <h3 align="center">An ambituous software engineer based in Canada.</h3>
 
-- 👨‍💻 Check out my portfolio at [www.ems-place.com/](www.ems-place.com/)
+- 👨‍💻 Check out my portfolio at [ems-place.com](https://www.ems-place.com/)
 
 - 📫 How to reach me **emrebozkurt2006@gmail.com**
 
