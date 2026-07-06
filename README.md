@@ -13,7 +13,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=6E7BF2&center=true&vCenter=true&width=640&lines=Hi%2C+I'm+Emre+%F0%9F%91%8B;CS+%40+McMaster+%2B+Research+Assistant+%40+McSCert;I+build+web+platforms%2C+game+systems+%26+graphics+engines;Currently%3A+VLM+scene+graphs+for+autonomous+driving" alt="typing header" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=6E7BF2&center=true&vCenter=true&width=640&lines=Hi%2C+I'm+Emre+%F0%9F%91%8B;CS+%40+McMaster+%2B+Research+Assistant+%40+McSCert;I+build+web+platforms%2C+game+systems+%26+engines" alt="typing header" />
 
 </div>
 
