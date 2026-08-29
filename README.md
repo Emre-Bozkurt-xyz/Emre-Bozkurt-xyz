@@ -26,7 +26,7 @@ Third-year **Computer Science** student at **McMaster University** (GPA 4.0) and
 Outside research I build across the whole stack — self-hosted web platforms, multiplayer game backends, and graphics engines from scratch. I care about correctness, automation, and shipping things that actually run in production.
 
 - 🔬 **Research:** Autonomous Vehicle & AI Research Assistant at McMaster
-- 🛠️ **Building:** [Vault](https://ems-place.com) — a self-hosted, collaborative Markdown workspace
+- 🛠️ **Building:** [Vault](https://vault.ems-place.com) — a self-hosted, collaborative Markdown workspace
 - 🎮 **For fun:** engine and netcode work in Rust, C++, and Godot
 - 🌍 Turkey → Dubai → Canada
 
@@ -77,7 +77,7 @@ Outside research I build across the whole stack — self-hosted web platforms, m
 
 ### 🚀 Featured projects
 
-**[Vault](https://ems-place.com)** &nbsp;·&nbsp; `Next.js` `React 19` `Yjs` `PostgreSQL` `Cloudflare R2`
+**[Vault](https://vault.ems-place.com)** &nbsp;·&nbsp; `Next.js` `React 19` `Yjs` `PostgreSQL` `Cloudflare R2`
 A self-hosted, Obsidian-style Markdown workspace with real-time CRDT collaboration, role-based sharing, public publishing, and permission-gated asset storage — deployed through a Dockerized home-lab stack behind Caddy + GitHub Actions.
 
 **Constantia** &nbsp;·&nbsp; `Godot 4` `Rust` `SpacetimeDB` `GDExtension`
